@@ -1,0 +1,50 @@
+{
+  "name": "jenkins_smoke",
+  "description": "A fabulous new cookbook",
+  "long_description": "",
+  "maintainer": "YOUR_COMPANY_NAME",
+  "maintainer_email": "YOUR_EMAIL",
+  "license": "none",
+  "platforms": {
+  },
+  "dependencies": {
+    "jenkins_authentication": ">= 0.0.0",
+    "jenkins_command": ">= 0.0.0",
+    "jenkins_credentials": ">= 0.0.0",
+    "jenkins_job": ">= 0.0.0",
+    "jenkins_plugin": ">= 0.0.0",
+    "jenkins_script": ">= 0.0.0",
+    "jenkins_server_wrapper": ">= 0.0.0",
+    "jenkins_slave": ">= 0.0.0",
+    "jenkins_user": ">= 0.0.0"
+  },
+  "recommendations": {
+  },
+  "suggestions": {
+  },
+  "conflicting": {
+  },
+  "providing": {
+  },
+  "replacing": {
+  },
+  "attributes": {
+  },
+  "groupings": {
+  },
+  "recipes": {
+  },
+  "version": "0.0.0",
+  "source_url": "",
+  "issues_url": "",
+  "privacy": false,
+  "chef_versions": [
+
+  ],
+  "ohai_versions": [
+
+  ],
+  "gems": [
+
+  ]
+}
